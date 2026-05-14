@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="animalsMoveSound/animalsMoveSound.vcxproj" Id="8be114a6-3651-49fd-84cd-7b2b629a9c3f" />
+</Solution>
